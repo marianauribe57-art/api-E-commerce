@@ -10,7 +10,8 @@ https://api-e-commercce.onrender.com/
 Header requerido: password: TuPasswordSegura2024
 
 ## Modelo de datos (Diagrama ER)
-![Diagrama ER](./diagrama-er.png)
+![diagrama E-R](https://github.com/user-attachments/assets/74f2b06b-3365-4488-bf1c-5444d3fdbbf9)
+
 
 ## Endpoints por tabla
 
